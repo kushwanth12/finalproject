@@ -1,3 +1,3 @@
-# finalproject
-project.ipynb file is the original
-samples is the sample trys
+
+# project.ipynb file is the original
+# MLP is the sample trys
